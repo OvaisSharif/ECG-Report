@@ -1,0 +1,56 @@
+/* datas {} */
+
+.datatable {
+    margin-top: 40px;
+}
+
+.filesheading {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #242831;
+}
+
+.userrecordparent {
+    padding: 13px 23px;
+    margin: 29px 0 !important;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.05);
+}
+
+.records {
+    background-color: #F8F8F8;
+    border-radius: 10px;
+}
+
+.userrecordcolumns {
+    border-bottom: 1px solid rgba(107, 107, 107, 0.2);
+}
+
+.recordheading {
+    margin: 10px auto;
+    border-bottom: 1px solid #6B6B6B;
+}
+
+.recordhead1 {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #242831;
+    padding: 8px 10px;
+    margin: 14px 19px;
+}
+
+.recordhead2 {
+    font-family: 'Open Sans';
+    padding: 8px 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #6B6B6B;
+    padding: 8px 10px;
+    background-color: #FFFFFF;
+    margin: 14px 19px;
+}

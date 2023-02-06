@@ -1,0 +1,91 @@
+/* .profile {} */
+
+.profileimg {
+    margin-top: 36px;
+    margin-bottom: 10px;
+}
+
+.profileemail {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #6B6B6B;
+    margin-bottom: 15px;
+}
+
+.past {
+    height: 35px;
+    border-right: 1px solid #6B6B6B;
+}
+
+.pastnumber {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    margin: 0;
+    color: #242831;
+}
+
+.pastname {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #6B6B6B;
+
+}
+
+/* .upcoming {} */
+
+.upcomingnumber {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    margin: 0;
+    color: #242831;
+}
+
+.upcomingname {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #6B6B6B;
+}
+
+.profileinfo {
+    padding-top: 50px;
+}
+
+
+
+.dataheading {
+    margin-top: 45px;
+    width: 80%;
+    background: #F8F8F8;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.datahead1 {
+    font-family: 'Source Serif 4';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 140%;
+    color: #4469BA;
+    background-color: #fff;
+    padding: 8px 28px;
+}
+
+.datahead2 {
+    font-family: 'Source Serif 4';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    text-align: center;
+    padding: 8px 28px;
+    color: #6B6B6B;
+}
